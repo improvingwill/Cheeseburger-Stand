@@ -1,1 +1,1 @@
-c:\users\admin\documents\visual studio 2010\Projects\Code Syndrome\CheeseburgerStand\CheeseburgerStand.Web\CheeseburgerStand.Web.csproj,634198092062949750,Properties\AssemblyInfo.cs,
+C:\Code Syndrome\Cheeseburger-Stand\CheeseburgerStand.Web\CheeseburgerStand.Web.csproj,634198092092111418,Properties\AssemblyInfo.cs,
