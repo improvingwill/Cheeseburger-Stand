@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseburgerStand", "CheeseburgerStand\CheeseburgerStand.csproj", "{2A94CCA6-5FCD-4472-8142-9FDE9AEDB558}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BB06B956-E8D4-4A85-B340-67149DCF7D05} = {BB06B956-E8D4-4A85-B340-67149DCF7D05}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseburgerStand.Web", "CheeseburgerStand.Web\CheeseburgerStand.Web.csproj", "{BB06B956-E8D4-4A85-B340-67149DCF7D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseburgerStand.Tests", "CheeseburgerStand.Tests\CheeseburgerStand.Tests.csproj", "{AE28A2BA-557C-4403-B451-805081DFFFAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{38C451D7-3A3C-4C1B-B410-EE3710C9362B}"
+	ProjectSection(SolutionItems) = preProject
+		CheeseburgerStand.vsmdi = CheeseburgerStand.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CheeseburgerStand.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A94CCA6-5FCD-4472-8142-9FDE9AEDB558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A94CCA6-5FCD-4472-8142-9FDE9AEDB558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A94CCA6-5FCD-4472-8142-9FDE9AEDB558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A94CCA6-5FCD-4472-8142-9FDE9AEDB558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB06B956-E8D4-4A85-B340-67149DCF7D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB06B956-E8D4-4A85-B340-67149DCF7D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB06B956-E8D4-4A85-B340-67149DCF7D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB06B956-E8D4-4A85-B340-67149DCF7D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE28A2BA-557C-4403-B451-805081DFFFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE28A2BA-557C-4403-B451-805081DFFFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE28A2BA-557C-4403-B451-805081DFFFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE28A2BA-557C-4403-B451-805081DFFFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
