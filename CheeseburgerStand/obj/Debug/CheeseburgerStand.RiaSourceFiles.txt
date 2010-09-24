@@ -1,1 +1,0 @@
-C:\Code Syndrome\Cheeseburger-Stand\CheeseburgerStand.Web\CheeseburgerStand.Web.csproj,634198092092111418,Properties\AssemblyInfo.cs,
